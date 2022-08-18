@@ -17,10 +17,10 @@
 .price {
   font-size: 18px;
   font-weight: bold;
-  color: var(--darkBlue);
+  color: var(--blue);
 }
 
 .desc {
   text-align: center;
-  color: var(--darkBlue);
+  color: var(--blue);
 }

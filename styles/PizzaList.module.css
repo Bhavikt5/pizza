@@ -7,12 +7,12 @@
 
 .title {
   margin: 30px 0;
-  color: #222831;
+  color: var(--dk-blue);
 }
 
 .desc {
   font-size: 24px;
-  color: #30475e;
+  color: var(--blue);
   width: 70%;
 }
 
